@@ -6,6 +6,8 @@ Created a simple calculator in Python. Repository also contain a few fun Python 
 ###  Main items
 * Created a Calculator with Python (calculator-v2.py)
 * Sample list problems (lists_practice.py)
+* Dictionary exercises (dictionary_exercises.rtf, dictionaries.py)
+* Letter Summary - builds a dictionary based on tally of letters used in a word (dictionary_exercises.rtf, letter_summary.py)
 
 ###  File - calculator-v2.py
 Calculator - Prompts user for two numbers and an operand. Prgrams runs until user clicks 'q'.
@@ -59,3 +61,6 @@ results in
 
 Matrix Addition II
 Use your solution in Matrix Addition, and extend it to work for a pair of matrices of any size, as long as they have the same size.
+
+###  File - dictionary_exercises.rtf
+This file contains exercise related info for dictionaries.py, letter_summary.py
